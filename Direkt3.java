@@ -1,3 +1,5 @@
+/* En totalt onödig kommentarsrad */
+
 import java.awt.*;
 import javax.swing.*;
 
