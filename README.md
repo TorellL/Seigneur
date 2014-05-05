@@ -1,7 +1,0 @@
-Seigneur
-========
-
-ApprendrePlus
-
-ABCDEFGHIJKL
-MNOP
